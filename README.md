@@ -162,4 +162,5 @@ Therefore, without including searchTerm in the queryKey array, the useQuery hook
 
 - .env : must be included in .gitignore
 #   t e m p - v i t e - i m a g e s  
+ #   t e s t 2  
  
