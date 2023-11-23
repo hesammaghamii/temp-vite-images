@@ -34,7 +34,7 @@ const Gallery = () => {
   if (response.isError) {
     return (
       <section className='image-container'>
-        <h4>There was an Error...</h4>
+        <h4>There was an Error2...</h4>
       </section>
     );
   }
